@@ -65,3 +65,5 @@ if (require.main === module) {
 }
 
 module.exports = { MintChain, MintChainCore };
+
+# revision 1 (2024-05-24): review pass
