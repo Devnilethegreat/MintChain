@@ -1,6 +1,6 @@
 {
   "name": "mintchain",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Professional NFT minting infrastructure with AI metadata generation",
   "main": "src/index.js",
   "scripts": {
